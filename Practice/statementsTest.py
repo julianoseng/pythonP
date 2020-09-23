@@ -4,7 +4,7 @@
 
 
 # for word in st.split():
-#     if word.split()[0][0] == 's':
+#     if word.split()[0][0].lower() == 's':
 #         print(word)
 
 
